@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms and Conditions | THINK FAST</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #0b1020;
+            color: #e5e7eb;
+            line-height: 1.8;
+            padding: 30px 20px;
+            max-width: 850px;
+            margin: auto;
+        }
+        h1, h2 { color: #38bdf8; }
+        h2 { margin-top: 30px; }
+        a { color: #38bdf8; }
+        p, li { color: #cbd5e1; }
+    </style>
+</head>
+<body>
